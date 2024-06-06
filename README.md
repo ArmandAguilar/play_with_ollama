@@ -47,7 +47,7 @@ ollama list
 
 
 <ul>
-    <li>🦙 Vision Codigo  🔗</li>
+    <li><a href="https://github.com/ArmandAguilar/play_with_ollama/tree/main/vision">🦙 Vision Codigo  🔗</a></li>
 </ul>
 
 
